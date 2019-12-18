@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="226a8d4e-b958-45e6-be74-14d3558d797d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/AdministrativeStaff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/FrontDeskStaff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/FullName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/History.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Hospital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Nurse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/OperationsStaff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Organization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Receptionist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Staff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Surgeon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/SurgicalTechnologist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/TechnicalStaff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Technician.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lab4/Technologist.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SGjXU1Z21RPTwqfHzUwZ7I2cVF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company/lab3" />
+      <recent name="$PROJECT_DIR$/src/com/company/lab2" />
+      <recent name="$PROJECT_DIR$/src/com/company/lab1$2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Organization">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab1$2.Main" />
+      <module name="laboratories" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab1$2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab2.Main" />
+      <module name="laboratories" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab3.Main" />
+      <module name="laboratories" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab4.MainFour" />
+      <module name="laboratories" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Organization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab4.Organization" />
+      <module name="laboratories" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Organization" />
+        <item itemvalue="Application.MainFour" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="226a8d4e-b958-45e6-be74-14d3558d797d" name="Default Changelist" comment="" />
+      <created>1571196865277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571196865277</updated>
+      <workItem from="1571196868435" duration="24000" />
+      <workItem from="1571196980682" duration="652000" />
+      <workItem from="1576708053210" duration="697000" />
+    </task>
+    <task id="LOCAL-00001" summary="added the 4th lab">
+      <created>1576707278726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576707278726</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added the 4th lab">
+      <created>1576707412719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576707412719</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added the 6th lab">
+      <created>1576707422722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576707422722</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added the 4th lab" />
+    <MESSAGE value="added the 6th lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the 6th lab" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="121" key="#com.intellij.ide.util.MemberChooser" />
+    <state x="535" y="121" key="#com.intellij.ide.util.MemberChooser/0.23.1440.793@0.23.1440.793" />
+    <state x="574" y="326" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" />
+    <state x="574" y="326" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.793@0.23.1440.793" />
+    <state width="1358" height="188" key="GridCell.Tab.0.bottom" />
+    <state width="1358" height="188" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" />
+    <state width="1358" height="188" key="GridCell.Tab.0.center" />
+    <state width="1358" height="188" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" />
+    <state width="1358" height="188" key="GridCell.Tab.0.left" />
+    <state width="1358" height="188" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" />
+    <state width="1358" height="188" key="GridCell.Tab.0.right" />
+    <state width="1358" height="188" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" />
+  </component>
+</project>
