@@ -2,43 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="226a8d4e-b958-45e6-be74-14d3558d797d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_mac_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/alphabet/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/alphabet/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/alphabet/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/alphabet/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/alphabet/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/alphabet/F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/alphabet/G.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/alphabet/H.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/alphabet/I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/alphabet/J.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lab5/alphabet/X.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/GeometricBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/GeometricBodyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Parallelepiped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lab7/Sphere.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laboratories.iml" beforeDir="false" afterPath="$PROJECT_DIR$/laboratories.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laboratories/com/company/lab1$2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laboratories/com/company/lab1$2/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laboratories/com/company/lab1$2/University.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laboratories/com/company/lab1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laboratories/com/company/lab1/Monitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laboratories/com/company/lab2/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laboratories/com/company/lab2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laboratories/com/company/lab2/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laboratories/com/company/lab3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laboratories/com/company/lab3/TextEdit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lab6/Organization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lab6/Organization.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.lab8.Main" />
       <module name="laboratories" />
@@ -120,6 +90,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.lab5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab7.Main" />
+      <module name="laboratories" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Organization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.lab4.Organization" />
-      <module name="laboratories" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.lab4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Organization (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Organization" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +158,7 @@
       <updated>1571196865277</updated>
       <workItem from="1571196868435" duration="24000" />
       <workItem from="1571196980682" duration="652000" />
-      <workItem from="1576708053210" duration="7286000" />
+      <workItem from="1576708053210" duration="9186000" />
     </task>
     <task id="LOCAL-00001" summary="added the 4th lab">
       <created>1576707278726</created>
@@ -225,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576785734357</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="5th lab added">
+      <created>1576789787289</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576789787289</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +224,8 @@
     <MESSAGE value="added the 6th lab" />
     <MESSAGE value="6th lab added" />
     <MESSAGE value="4th lab added" />
-    <option name="LAST_COMMIT_MESSAGE" value="4th lab added" />
+    <MESSAGE value="5th lab added" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th lab added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="535" y="121" key="#com.intellij.ide.util.MemberChooser" />
